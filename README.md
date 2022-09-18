@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width=55px height=55px>
-  <img src='https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png' width=55px height=55px>
+  <img src='https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png' width=85px height=55px>
   <img src='https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-plain.svg' width=55px height=55px>
   <img src='https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg' width=55px height=55px>
   <img src='https://github.com/devicons/devicon/raw/master/icons/python/python-plain.svg' width=55px height=55px>
