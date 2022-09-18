@@ -1,5 +1,5 @@
 ## Hi, I'm Rahul 👋
-- 🎓 I'm a Senior Computer Engineering student ( B.Tech 2023 ).
+- 🎓 I'm a Final year Computer Engineering student ( B.Tech 2023 ).
 - 🏠 I'm from Nagpur, India and I'm interested to be a Software Developer.
 - 👨‍💻 I'm 3 ⭐ on CodeChef and solved over 600+ DSA questions on Leetcode and GFG.
 - 🌱 I’m currently learning Fullstack Development.
