@@ -1,4 +1,4 @@
-## Hi, I'm Rahul `<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/waving-hand_1f44b.png" width="30px">`
+## Hi, I'm Rahul `​<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/waving-hand_1f44b.png" width="30px">`
 
 - 🎓 I'm a Senior Computer Engineering student ( B.Tech 2023 ).
 - 🏠 I'm from Nagpur, India and I'm interested to be a Software Developer.
