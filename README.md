@@ -1,8 +1,8 @@
 ## Hi, I'm Rahul 👋
-- 🎓 I'm a Final year Computer Engineering student ( B.Tech 2023 ).
+- 🎓 I'm Computer Engineering Graduate ( B.Tech 2023 ).
 - 🏠 I'm from Nagpur, India and I'm interested to be a Software Developer.
-- 👨‍💻 I'm 3 ⭐ on CodeChef and solved over 600+ DSA questions on Leetcode and GFG.
-- 🌱 I’m currently learning Fullstack Development.
+- 👨‍💻 I'm 3 ⭐ on CodeChef and solved over 700+ DSA questions on Leetcode and GFG.
+- 🌱 I’m Fullstack Developer.
 - 📫 How to reach me : [LinkedIn.](https://www.linkedin.com/in/rahul-patil-b69867190/)
 
 ## Skills
